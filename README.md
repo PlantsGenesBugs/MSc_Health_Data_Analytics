@@ -1,4 +1,6 @@
 ## Final assignment for University of Birmingham, MSc module on Health Data Analytics  
 
 This repository contains a Jupyter notebook in which I analysed gene expression data obtained from publicly available 4x44k custom oligonucleotide arrays. These arrays were used in a study to identify molecular signals associated with neuroblastoma, in order to predict clinical endpoints. The aim of my analysis was to compare the performance of two classifiers (Random Forest and Support Vector Machine) in the prediction of 4 different clinical endpoints. The outcome of my analysis is summarised in the 2000-word data analysis report titled `Final_Assignment_HealthDataAnalytics_AP.pdf`. My overall approach is illustrated in the flow diagram below. 
+
+
 ![](https://github.com/PlantsGenesBugs/MSc_Health_Data_Analytics/blob/main/flowchart.png)
